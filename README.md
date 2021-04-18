@@ -1,0 +1,5 @@
+- 👋 Hi, we're @EuroteamGameDevs
+- 👀 Interested in game development
+- 🌱 Currently learning C#, Unity Game Engine and Blender
+- 💞️ Looking to collaborate on Unity projects mainly
+- 📫 Reach us at info@iekeuroteam.gr
